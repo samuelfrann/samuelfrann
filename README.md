@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 ***
 ## 📁 Portfolio
-🔹  https://github.com/samuelfrann/Credit-Loan-Risk
+🔹 [Credit Loan Risk](https://github.com/samuelfrann/Credit-Loan-Risk)
 Developed a machine learning model that assesses loan risk by predicting loan outcomes and identifying high-risk borrowers, with emphasis on correctly detecting bad loans under severe class imbalance.
 
