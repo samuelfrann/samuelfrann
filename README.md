@@ -1,4 +1,4 @@
-##👋 Hi there! I'm Samuel 
+## 👋 Hi there! I'm Samuel 
 
 I'm a Mechatronics Engineer with growing expertise in Machine Learning.
 <!--
