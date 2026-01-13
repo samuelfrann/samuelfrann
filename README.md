@@ -36,4 +36,4 @@ Developed a machine learning model that assesses loan risk by predicting loan ou
 
 Tools: Python, Pandas, Sckit-Learn, Seaborn, Matplotlib
 
-### 🔹 [Insurace Fraud Detection Model]([https://github.com/samuelfrann/REPO_NAME](https://github.com/samuelfrann/Insurance-Fraud-Detection-Model/tree/main))
+### 🔹 [Insurace Fraud Detection Model](https://github.com/samuelfrann/Insurance-Fraud-Detection-Model/tree/main)
