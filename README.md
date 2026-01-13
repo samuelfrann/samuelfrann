@@ -31,9 +31,15 @@ Here are some ideas to get you started:
 
 ***
 ## 📁 Portfolio
-### 🔹 [Credit Loan Risk](https://github.com/samuelfrann/Credit-Loan-Risk)
+### 🔹 [Credit Loan Risk Prediction](https://github.com/samuelfrann/Credit-Loan-Risk)
 Developed a machine learning model that assesses loan risk by predicting loan outcomes and identifying high-risk borrowers, with emphasis on correctly detecting bad loans under severe class imbalance.
 
 Tools: Python, Pandas, Sckit-Learn, Seaborn, Matplotlib
 
-### 🔹 [Insurace Fraud Detection Model](https://github.com/samuelfrann/Insurance-Fraud-Detection-Model/tree/main)
+### 🔹 [Auto Insurance Fraud Detection System](https://github.com/samuelfrann/Insurance-Fraud-Detection-Model/tree/main)
+Developed a machine learning classification model that detects fraudulent auto insurance claims to support insurance fraudulent investigation.
+
+***
+## 📫 Let's Connect
+- 📧 Email: [samuelsotonwa1@gmail.com](mailto:samuelsotonwa1@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/samuel-sotonwa](http://linkedin.com/in/samuel-sotonwa)
