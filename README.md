@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🧠 About Me
-- 
+- Mechatronics Engineer
+- Machine Learning and AI enthusiast
+- Focused on practical and real-world solutions
+- Learning end-to-end model development and deployment
