@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ***
 ## 🧠 About Me
 - 🛠️ Mechatronics Engineer
-- Machine Learning Engineer
-- Focused on creating practical and scalable solutions for real-world challenges.
-- Learning end-to-end model development and deployment
+- 🧠 Machine Learning Engineer
+- 🌍 Focused on creating practical and scalable solutions for real-world challenges.
+- ⛓️ Learning end-to-end model development and deployment
 
 ***
 ## 💼 Skills & Tools
@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 
 ***
 ## 📁 Portfolio
+🔹  https://github.com/samuelfrann/Credit-Loan-Risk
+Developed a machine learning model that assesses loan risk by predicting loan outcomes and identifying high-risk borrowers, with emphasis on correctly detecting bad loans under severe class imbalance.
+
