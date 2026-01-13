@@ -44,4 +44,4 @@ Tools: Python, Pandas, Sckit-Learn, Seaborn, Matplotlib
 ***
 ## 📫 Let's Connect
 - 📧 Email: [samuelsotonwa1@gmail.com](mailto:samuelsotonwa1@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/samuel-sotonwa/](http://linkedin.com/in/samuel-sotonwa/)
+- 💼 LinkedIn: [linkedin.com/in/samuel-sotonwa/](https://www.linkedin.com/in/samuel-sotonwa-849190263/)
