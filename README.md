@@ -39,7 +39,9 @@ Tools: Python, Pandas, Sckit-Learn, Seaborn, Matplotlib
 ### 🔹 [Auto Insurance Fraud Detection System](https://github.com/samuelfrann/Insurance-Fraud-Detection-Model/tree/main)
 Developed a machine learning classification model that detects fraudulent auto insurance claims to support insurance fraudulent investigation.
 
+Tools: Python, Pandas, Sckit-Learn, Seaborn, Matplotlib
+
 ***
 ## 📫 Let's Connect
 - 📧 Email: [samuelsotonwa1@gmail.com](mailto:samuelsotonwa1@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/samuel-sotonwa](http://linkedin.com/in/samuel-sotonwa)
+- 💼 LinkedIn: [linkedin.com/in/samuel-sotonwa/](http://linkedin.com/in/samuel-sotonwa/)
