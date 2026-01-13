@@ -1,5 +1,6 @@
 ##👋 Hi there! I'm Samuel 
-jjjj
+
+I'm a Mechatronics Engineer with growing expertise in Machine Learning.
 <!--
 **samuelfrann/samuelfrann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
