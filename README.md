@@ -1,9 +1,8 @@
 ## 👋 Hi there! I'm Samuel 
 
-I'm a Mechatronics Engineer with growing expertise in Machine Learning.
+I'm a Mechatronics Engineer with growing expertise in Machine Learning. Passionate about automation, automation and artificial intelligence and exploring how these technologies can be applied to provide practical solutions to real world problems.
 <!--
 **samuelfrann/samuelfrann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🧠 About Me
+- 
