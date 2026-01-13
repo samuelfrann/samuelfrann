@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Samuel 
 
-I'm a Mechatronics Engineer with growing expertise in Machine Learning. Passionate about automation, automation and artificial intelligence and exploring how these technologies can be applied to provide practical solutions to real world problems.
+I'm a Mechatronics Engineer applying Machine Learning to real-world problems. Passionate about automation, automation and artificial intelligence and exploring how these technologies can be applied to provide practical solutions to real world problems.
 <!--
 **samuelfrann/samuelfrann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -16,7 +16,18 @@ Here are some ideas to get you started:
 -->
 ***
 ## 🧠 About Me
-- Mechatronics Engineer
-- Machine Learning and AI enthusiast
-- Focused on practical and real-world solutions
+- 🛠️ Mechatronics Engineer
+- Machine Learning Engineer
+- Focused on creating practical and scalable solutions for real-world challenges.
 - Learning end-to-end model development and deployment
+
+***
+## 💼 Skills & Tools
+- Languages: Python
+- Machine Learning: Scikit-learn, Model Pipelines, Feature Engineering
+- Deployment & Web: Streamlit, Flask, JSON, REST APIs (POST/GET)
+- Tools: VSCode, Jupyter Notebook, Git/GitHub
+- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+
+***
+## 📁 Portfolio
