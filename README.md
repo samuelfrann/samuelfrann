@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 
 ***
 ## 📁 Portfolio
+### 🔹 [Industrial Telemetry Predictive Maintenance System](https://github.com/samuelfrann/Industrial-Telemetry-Predictive-Maintenance-System))
+Developed an end-to-end machine learning system that monitors industrial equipment telemetry data to predict potential faults before they occur. The system leverages advanced classification models to minimize downtime and optimize maintenance schedules in industrial environments.
+
+Tools: Python, Scikit-Learn, Random Forest, Docker, AWS ECR, AWS Elastic Beanstalk, Flask
+
 ### 🔹 [Multi Class and Binary Loan Risk Prediction](https://github.com/samuelfrann/Credit-Loan-Risk)
 Developed a machine learning model that assesses loan risk by predicting loan outcomes and identifying high-risk borrowers, with emphasis on correctly detecting bad loans under severe class imbalance.
 
