@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 ***
 ## 💼 Skills & Tools
 - Languages: Python
-- Machine Learning: Scikit-learn, Model Pipelines, Feature Engineering
-- Deployment & Web: Streamlit, Flask, JSON, REST APIs (POST/GET)
-- Tools: VSCode, Jupyter Notebook, Git/GitHub
+- Machine Learning: Scikit-learn, Model Pipelines, Feature Engineering, Hyperparameter Tuning
+- Deployment & Cloud: Docker, AWS Elastic Beanstalk, AWS ECR, Flask, Streamlit, REST APIs (POST/GET), JSON
+- Tools & Version Control: Git/GitHub, VSCode, Jupyter Notebook, AWS CLI
 - Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
 
 ***
 ## 📁 Portfolio
-### 🔹 [Industrial Telemetry Predictive Maintenance System](https://github.com/samuelfrann/Industrial-Telemetry-Predictive-Maintenance-System))
+### 🔹 [Industrial Telemetry Predictive Maintenance System](https://github.com/samuelfrann/Industrial-Telemetry-Predictive-Maintenance-System)
 Developed an end-to-end machine learning system that monitors industrial equipment telemetry data to predict potential faults before they occur. The system leverages advanced classification models to minimize downtime and optimize maintenance schedules in industrial environments.
 
 Tools: Python, Scikit-Learn, Random Forest, Docker, AWS ECR, AWS Elastic Beanstalk, Flask
