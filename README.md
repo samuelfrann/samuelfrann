@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 ***
 ## 📁 Portfolio
 ### 🔹 [InsurAI-Agent](https://github.com/samuelfrann/InsurAI-Agent)
-Developed an AI-powered agent tailored for the insurance domai.Developed an end-to-end machine learning system that monitors industrial equipment telemetry data to predict potential faults before they occur. The system leverages advanced classification models to minimize downtime and optimize maintenance schedules in industrial environments.
+An AI-powered conversational agent built for the insurance domain. Integrates a LangChain agent with search tools and a structured system prompt to handle insurance claims queries, risk guidance, and claims process navigation. Designed as the GenAI frontend layer for an ML-powered claims assessment system.  
 
-Tools: Python, Scikit-Learn, Random Forest, Docker, AWS ECR, AWS Elastic Beanstalk, Flask
+Tools: Python, LangChain, Anthropic Claude API, FastAPI, Docker
 
 ### 🔹 [Industrial Telemetry Predictive Maintenance System](https://github.com/samuelfrann/Industrial-Telemetry-Predictive-Maintenance-System)
 Developed an end-to-end machine learning system that monitors industrial equipment telemetry data to predict potential faults before they occur. The system leverages advanced classification models to minimize downtime and optimize maintenance schedules in industrial environments.
