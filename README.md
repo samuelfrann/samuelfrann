@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ***
 ## 📁 Portfolio
-### 🔹 [InsurAI-Agent](https://github.com/samuelfrann/InsurAI-Agent))
+### 🔹 [InsurAI-Agent](https://github.com/samuelfrann/InsurAI-Agent)
 Developed an AI-powered agent tailored for the insurance domai.Developed an end-to-end machine learning system that monitors industrial equipment telemetry data to predict potential faults before they occur. The system leverages advanced classification models to minimize downtime and optimize maintenance schedules in industrial environments.
 
 Tools: Python, Scikit-Learn, Random Forest, Docker, AWS ECR, AWS Elastic Beanstalk, Flask
