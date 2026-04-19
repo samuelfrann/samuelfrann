@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Samuel 
 
-I'm a Mechatronics Engineer applying Machine Learning to real-world problems. Passionate about automation, automation and artificial intelligence and exploring how these technologies can be applied to provide practical solutions to real world problems.
+Mechatronics Engineer applying Machine Learning and AI to real-world problems in risk management and insurance. I build end-to-end ML pipelines, deploy to cloud environments and develop AI agents for risk assessent, claims processing and fraud detection.
 <!--
 **samuelfrann/samuelfrann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
