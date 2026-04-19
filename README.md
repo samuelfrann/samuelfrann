@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 ## 🧠 About Me
 - 🛠️ Mechatronics Engineer
 - 🧠 Machine Learning Engineer
-- 🌍 Focused on creating practical and scalable solutions for real-world challenges.
-- ⛓️ Learning end-to-end model development and deployment
+- 🌍 Focused on creating practical and scalable solutions for real-world challenges in risk management and insurance.
+- ⛓️ Building end-to-end ML model pipelines and deploying systems to cloud environments.
+- 🤖 Building AI agents for risk assessment and claims management in insurance industry.
 
 ***
 ## 💼 Skills & Tools
@@ -31,6 +32,11 @@ Here are some ideas to get you started:
 
 ***
 ## 📁 Portfolio
+### 🔹 [InsurAI-Agent](https://github.com/samuelfrann/InsurAI-Agent))
+Developed an AI-powered agent tailored for the insurance domai.Developed an end-to-end machine learning system that monitors industrial equipment telemetry data to predict potential faults before they occur. The system leverages advanced classification models to minimize downtime and optimize maintenance schedules in industrial environments.
+
+Tools: Python, Scikit-Learn, Random Forest, Docker, AWS ECR, AWS Elastic Beanstalk, Flask
+
 ### 🔹 [Industrial Telemetry Predictive Maintenance System](https://github.com/samuelfrann/Industrial-Telemetry-Predictive-Maintenance-System)
 Developed an end-to-end machine learning system that monitors industrial equipment telemetry data to predict potential faults before they occur. The system leverages advanced classification models to minimize downtime and optimize maintenance schedules in industrial environments.
 
