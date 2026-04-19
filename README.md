@@ -16,19 +16,20 @@ Here are some ideas to get you started:
 -->
 ***
 ## 🧠 About Me
-- 🛠️ Mechatronics Engineer
+- 🛠️ Mechatronics Engineer 
 - 🧠 Machine Learning Engineer
-- 🌍 Focused on creating practical and scalable solutions for real-world challenges in risk management and insurance.
-- ⛓️ Building end-to-end ML model pipelines and deploying systems to cloud environments.
-- 🤖 Building AI agents for risk assessment and claims management in insurance industry.
+- 🤖 Building AI agents for risk assessment and claims management in the insurance industry
+- ⛓️ Building and designing end-to-end ML model pipelines and deploying systems to cloud environments.
+- 🌍 Focused on practical, scalable solutions for insurtech challenges
 
 ***
 ## 💼 Skills & Tools
-- Languages: Python
-- Machine Learning: Scikit-learn, Model Pipelines, Feature Engineering, Hyperparameter Tuning
-- Deployment & Cloud: Docker, AWS Elastic Beanstalk, AWS ECR, Flask, Streamlit, REST APIs (POST/GET), JSON
-- Tools & Version Control: Git/GitHub, VSCode, Jupyter Notebook, AWS CLI
-- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+- **Languages:** Python
+- **Machine Learning:** Scikit-learn, Model Pipelines, Feature Engineering, Hyperparameter Tuning, 
+- **AI & Agents:** LangChain, LangGraph, Anthropic Claude API, Tool Use, Agent Orchestration, RAG
+- **Deployment & Cloud:** Docker, AWS Elastic Beanstalk, AWS ECR, Flask, FastAPI, Streamlit, REST APIs
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **Tools & Version Control:** Git/GitHub, VSCode, Jupyter Notebook, AWS CLI
 
 ***
 ## 📁 Portfolio
