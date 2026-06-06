@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 ***
 ## 📁 Portfolio
 ### 🔹 [InsurAI-Agent](https://github.com/samuelfrann/InsurAI-Agent)
-An AI-powered conversational agent built for the insurance domain. Integrates a LangChain agent with search tools and a structured system prompt to handle insurance claims queries, risk guidance, and claims process navigation. Designed as the GenAI frontend layer for an ML-powered claims assessment system.  
+An agentic AI underwriting copilot and fraud detection system built for the Nigerian insurance market. Orchestrates a multi-step LangGraph agent with RAG over insurance documents (ChromaDB), a CatBoost fraud classification model, and a human-in-the-loop approval workflow. Handles risk assessment, claims queries, and policy guidance via a conversational interface backed by a FastAPI backend.
 
-Tools: Python, LangChain, Anthropic Claude API, FastAPI, Docker
+Tools: Python, LangGraph, Anthropic Claude API, CatBoost, ChromaDB, FastAPI, Docker, React
 
 ### 🔹 [Auto Insurance Fraud Detection System](https://github.com/samuelfrann/Insurance-Fraud-Detection-Model/tree/main)
 Developed a machine learning classification model that detects fraudulent auto insurance claims to support insurance fraudulent investigation.
